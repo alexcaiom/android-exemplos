@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Mapas</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="input_label">Pesquisa</string>
+    <string name="input_chk_label">Texto é um Endereço ou uma Descrição de Lugar</string>
+    <string name="btnGeocode">Pesquisar</string>
+    <string name="output">Resultado</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
